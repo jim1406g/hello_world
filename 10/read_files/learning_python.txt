@@ -1,0 +1,4 @@
+In Python you can work with collection.
+In Python you can work with string vars.
+In Python you can set vars and reset their.
+In Python you can build any algorithm.
